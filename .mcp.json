@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "UnityMCP": {
+      "command": "C:/deqBD/deqBD/Assets/StreamingAssets/realvirtual-MCP/python/python.exe",
+      "args": [
+        "C:/deqBD/deqBD/Assets/StreamingAssets/realvirtual-MCP/unity_mcp_server.py"
+      ]
+    }
+  }
+}
